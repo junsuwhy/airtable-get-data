@@ -1,0 +1,14 @@
+{
+  "name": "airtable-get-data",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Chang Shu-huai <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "airtable": "0.7.1"
+  }
+}
