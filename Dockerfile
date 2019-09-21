@@ -8,8 +8,6 @@ WORKDIR /usr/src/app
 # where available (npm@5+)
 COPY package*.json ./
 
-COPY apikey.js ./
-
 RUN npm install && \
 npm install -g nodemon && \
 npm install -g airtable 
