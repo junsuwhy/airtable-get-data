@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "express": "^4.16.1",
-    "airtable": "0.7.1"
+    "airtable": "0.9.0"
   }
 }
